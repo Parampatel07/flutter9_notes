@@ -1,0 +1,1 @@
+final dynamic violetBlue = 0xFF592F8D ;
